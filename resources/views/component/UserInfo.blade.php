@@ -11,7 +11,7 @@
         <div class="card px-5 py-5">
             <div class="row justify-content-between ">
                 <div class="align-items-center col">
-                    <h4>Product</h4>
+                    <h4>User Registration info </h4>
                 </div>
               
             </div>
